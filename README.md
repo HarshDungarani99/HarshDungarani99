@@ -42,16 +42,6 @@ I'm a **Cloud DevOps Engineer** focused on **Automate Workflows, Deployment proc
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshDungarani99&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
