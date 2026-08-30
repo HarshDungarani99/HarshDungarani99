@@ -61,7 +61,7 @@ I'm a **Cloud DevOps Engineer** focused on **Automate Workflows, Deployment proc
 </a>
 
 <a href="mailto:dungaraniharsh03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-dungaraniharsh03%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
